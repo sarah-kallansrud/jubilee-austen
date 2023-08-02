@@ -124,8 +124,12 @@ header h2 {
 
 
 
-
-
-
-
 /****** Contact Styles ******/
+
+#contact {
+    background-color: #F9E9E9;
+}
+
+#contact .content-wrapper {
+    padding: 110px 0;
+} 
