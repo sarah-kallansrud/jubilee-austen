@@ -16,6 +16,14 @@ body {
 
 /****** Header Styles ******/
 
+.homepage-hero {
+    background: url(../img/full-background.png), #F9EFEF;
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+}
+
+
 header h1 {
     float: left;
     width: 300px;
