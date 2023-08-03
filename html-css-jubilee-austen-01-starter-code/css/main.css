@@ -192,16 +192,22 @@ header h2 {
 }
 
 
-/*******  Projects Styles *******/
+/*************  Projects Styles **************/
+
+
+/***** Projects Header *****/
 
 .projects-hero {
-    
+    background: #f9efef;
 }
 
 #projects {
     background-color: #F5F5F5;
     text-align: center;
 }
+
+
+/***** Projects Section Styles *****/
 
 #projects .content-wrapper {
     padding: 150px 0;
