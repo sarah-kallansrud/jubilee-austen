@@ -46,7 +46,7 @@ header nav ul li a {
     text-transform: uppercase;
     color: #727172;
     font-size: 18px;
-    padding-left: 80px;
+    padding-left: 70px;
 }
 
 header h2 {
@@ -189,4 +189,11 @@ header h2 {
 
 #contact ul li img {
     padding-right: 40px;
+}
+
+
+/*******  Projects Styles *******/
+
+.projects-hero {
+    
 }
